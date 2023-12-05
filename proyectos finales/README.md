@@ -1,4 +1,4 @@
 En base al esquema de investigación suministrados, los equipos diseñan y ejecutan un proyecto usando computación en la nube para temas como internet de las cosas e inteligencia artificial.
 
 Referencias:
-En caso de conocer git para realizar fork y pull request, favor apoyarse de https://learngitbranching.js.org/
+En caso de conocer git para realizar fork y pull request, favor apoyarse de [https://learngitbranching.js.org/](https://www.youtube.com/watch?v=BPns9r76vSI)https://www.youtube.com/watch?v=BPns9r76vSI

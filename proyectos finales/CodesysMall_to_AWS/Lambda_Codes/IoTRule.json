@@ -1,0 +1,11 @@
+{
+  "sql": "SELECT * FROM 'codesysmallpayload'",
+  "description": "Invoke Lambda Function on Topic Message",
+  "actions": [
+    {
+      "lambda": {
+        "functionArn": "arn:aws:lambda:us-east-2:117898263163:function:CodesysMallToDynamoDB"
+      }
+    }
+  ]
+}
